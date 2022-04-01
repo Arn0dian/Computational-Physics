@@ -2,7 +2,7 @@
 Codes and Projects related to Computational Physics and its application 
 
 # Trajectory Calculation Script 
--Python Script to calculate and plot the trajectory of a projectile motion with or without air drag effect. Provides with accurate path plot and a csv file with time step of 0.001 sec of the co-ordinates data.
+-Python Script to calculate and plot the trajectory of a projectile motion with or without air drag effect. Provides with accurate path plot and a csv file with time step of 0.001 sec of the co-ordinates data , modify it according to your accuracy requirements.
 
 It will be modified constantly to add many other computational features as :
 * Interception of two projectiles
